@@ -5,5 +5,5 @@ body {
 .bunn {
     color: black;
     font-size: 20px;
-    background-image: url('https://images-na.ssl-images-amazon.com/images/I/61c0lsdC4xL._AC_SL1500_.jpg') 300px 200px;
+    background: url('https://images-na.ssl-images-amazon.com/images/I/61c0lsdC4xL._AC_SL1500_.jpg') no-repeat 30px 20px;
 }
